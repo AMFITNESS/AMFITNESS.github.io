@@ -154,3 +154,11 @@ a.selected{
         transform: translateX(10px);
     }
 }
+
+.main_one{
+    margin-bottom: 0;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 30px;
+
+}
