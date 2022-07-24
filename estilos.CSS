@@ -186,14 +186,14 @@ footer{
     padding: 40px;
 }
 .box_footer .logo img{
-    width: 150px;
+    width: 100px;
 
 }
 .box__footer .terms{
     max-width: 350px;
     margin-top: 20px;
     font-weight: 500;
-    color: #7a7a7a;
+    color: white;
     font-size: 18px;
 }
 
