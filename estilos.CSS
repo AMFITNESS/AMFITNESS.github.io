@@ -166,7 +166,7 @@ a.selected{
 footer{
     width: 100%;
     padding: 50px 0px;
-    background-color: black;
+    background-color: black
 
 
 }
@@ -174,7 +174,15 @@ footer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    max-width: 50 px;
+    max-width: 1200 px;
     margin: auto;
+    margin-top: 1100px;
 
+}
+
+.box_footer{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    
 }
