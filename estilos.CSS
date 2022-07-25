@@ -208,3 +208,19 @@ footer{
 .box_footer a .fab{
     font-size: 20px;
 }
+/*responsive prueba*/
+
+    .home {
+        display: flex;
+    }
+.in-flex {
+    flex: 1;
+    padding: 25px;
+    
+   
+}
+
+.in-flex:first-child{
+    flex: 2;
+    
+}
