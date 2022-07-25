@@ -174,7 +174,7 @@ footer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    max-width: 617px;
+    max-width: 1200px;
     margin: auto;
     margin-top: 100px;}
 
@@ -185,7 +185,7 @@ footer{
     }
     
     .box_footer .logo img{
-        width:10%;
+        width:140px;
     }
 
     .box_footer h2{
