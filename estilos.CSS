@@ -170,38 +170,28 @@ footer{
 
 
 }
-.container_footer{
+.container__footer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     max-width: 1200px;
     margin: auto;
-    margin-top: 100px;
-}
+    margin-top: 100px;}
 
+    .box__footer{
+        display: flex;
+        flex-direction: column;
+        padding: 40px;
+    }
+    
+    .box__footer .logo img{
+        width: 80px;
+    }
 
-.box__footer{
-    display: flex;
-    flex-direction: column;
-    padding: 40px;
-}
-.box_footer .logo img{
-    width: 100px;
-
-}
-.box__footer .terms{
-    max-width: 350px;
-    margin-top: 20px;
-    font-weight: 500;
-    color: white;
-    font-size: 18px;
-}
-
-.box__footer h2{
-    margin-bottom: 30px;
-    color: #343434;
-    font-weight: 700;
-}
+    .box__footer h2{
+        margin-bottom: 30px;
+        color: #343434;
+        font-weight: 700;}
 
 .box__footer a{
     margin-top: 10px;
