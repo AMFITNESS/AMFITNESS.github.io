@@ -178,31 +178,31 @@ footer{
     margin: auto;
     margin-top: 100px;}
 
-    .box__footer{
+    .box_footer{
         display: flex;
         flex-direction: column;
         padding: 40px;
     }
     
-    .box__footer .logo img{
+    .box_footer .logo img{
         width: 80px;
     }
 
-    .box__footer h2{
+    .box_footer h2{
         margin-bottom: 30px;
         color: #343434;
         font-weight: 700;}
 
-.box__footer a{
+.box_footer a{
     margin-top: 10px;
     color: #7a7a7a;
     font-weight: 600;
 }
 
-.box__footer a:hover{
+.box_footer a:hover{
     opacity: 0.8;
 }
 
-.box__footer a .fab{
+.box_footer a .fab{
     font-size: 20px;
 }
