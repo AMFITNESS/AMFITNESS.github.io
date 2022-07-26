@@ -157,10 +157,15 @@ a.selected{
 }
 
 .main_one{
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
     margin-bottom: 0;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     margin-top: 30px;
+    background-color: black;
     
 
 }
@@ -210,17 +215,5 @@ footer{
 }
 /*responsive prueba*/
 
-    .home {
-        display: flex;
-    }
-.in-flex {
-    flex: 1;
-    padding: 25px;
     
    
-}
-
-.in-flex:first-child{
-    flex: 2;
-    
-}
